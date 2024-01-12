@@ -1,9 +1,9 @@
-import "./App.css";
+import Galary from "./components/Galary";
 
 function App() {
   return (
     <>
-      <div>hello world</div>
+      <Galary />
     </>
   );
 }
