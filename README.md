@@ -15,6 +15,6 @@ Currently, two official plugins are available:
 
 # Close all the tags
 
-JSX requires tags to be explicitly closed: self-closing tags like <img> must become <img />, and wrapping tags like <li>oranges must be written as <li>oranges</li>.
+JSX requires tags to be explicitly closed: self-closing tags like `<img> must become <img />`, and wrapping tags like `<li>oranges must be written as <li>oranges</li>`.
 
 # camelCase all most of the things!
