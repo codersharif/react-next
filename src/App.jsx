@@ -1,11 +1,10 @@
-import FormAddInput from "./components/FormAddInput";
+import TravelPlanNormalized from "./components/practices/TravelPlanNormalized";
 
 function App() {
   return (
-    <div>
-      {/* <PointerTest /> */}
-      <FormAddInput />
-    </div>
+    <>
+      <TravelPlanNormalized />
+    </>
   );
 }
 
