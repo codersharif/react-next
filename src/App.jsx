@@ -1,11 +1,16 @@
-import TravelPlanNormalized from "./components/practices/TravelPlanNormalized";
+import TaskAppReducerImmer from "./components/task/TaskAppReducerImmer";
 
-function App() {
+export default function App() {
   return (
     <>
-      <TravelPlanNormalized />
+      {/* <Accordion /> */}
+      {/* <Messenger /> */}
+
+      {/* use useState  */}
+      {/* <TaskApp /> */}
+
+      {/* use reducer  */}
+      <TaskAppReducerImmer />
     </>
   );
 }
-
-export default App;
