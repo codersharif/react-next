@@ -1,16 +1,10 @@
-import TaskAppReducerImmer from "./components/task/TaskAppReducerImmer";
+import ProfilePage from "./components/intermediate/ProfilePage";
 
 export default function App() {
   return (
     <>
-      {/* <Accordion /> */}
-      {/* <Messenger /> */}
-
-      {/* use useState  */}
-      {/* <TaskApp /> */}
-
-      {/* use reducer  */}
-      <TaskAppReducerImmer />
+      {/* <Page /> */}
+      <ProfilePage />
     </>
   );
 }

@@ -1,18 +1,10 @@
-# Lifting state up by example
+# Context: an alternative to passing props
 
-[https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-example]
+[https://react.dev/learn/passing-data-deeply-with-context#context-an-alternative-to-passing-props]
 
-# Resetting a form with a key
+# Context passes through intermediate components
 
-[https://react.dev/learn/preserving-and-resetting-state#resetting-a-form-with-a-key]
-
-# Consolidate state logic with a reducer
-
-[https://react.dev/learn/extracting-state-logic-into-a-reducer#consolidate-state-logic-with-a-reducer]
-
-# Writing concise reducers with Immer
-
-[https://react.dev/learn/extracting-state-logic-into-a-reducer#writing-concise-reducers-with-immer]
+[https://react.dev/learn/passing-data-deeply-with-context#using-and-providing-context-from-the-same-component]
 
 # How to run
 
