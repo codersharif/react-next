@@ -1,4 +1,4 @@
-import TaskAppReducerImmer from "./components/task/TaskAppReducerImmer";
+import TaskAppReducer from "./components/TaskAppReducer";
 
 export default function App() {
   return (
@@ -10,7 +10,7 @@ export default function App() {
       {/* <TaskApp /> */}
 
       {/* use reducer  */}
-      <TaskAppReducerImmer />
+      <TaskAppReducer />
     </>
   );
 }
