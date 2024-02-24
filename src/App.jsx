@@ -1,16 +1,12 @@
-import TaskAppReducer from "./components/TaskAppReducer";
+import "./App.css";
+import TodoList from "./components/TodoList";
 
-export default function App() {
+function App() {
   return (
     <>
-      {/* <Accordion /> */}
-      {/* <Messenger /> */}
-
-      {/* use useState  */}
-      {/* <TaskApp /> */}
-
-      {/* use reducer  */}
-      <TaskAppReducer />
+      <TodoList />
     </>
   );
 }
+
+export default App;
