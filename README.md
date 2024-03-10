@@ -1,11 +1,3 @@
-# Combining a reducer with context
-
-[https://react.dev/learn/scaling-up-with-reducer-and-context#combining-a-reducer-with-context]
-
-# Moving all wiring into a single file
-
-[https://react.dev/learn/scaling-up-with-reducer-and-context#moving-all-wiring-into-a-single-file]
-
 # How to run
 
 Please follow the below instructions to run this branch in your machine:

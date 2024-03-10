@@ -1,10 +1,12 @@
 import "./App.css";
-import TodoList from "./components/TodoList";
+import Parent from "./components/Parent";
 
 function App() {
   return (
     <>
-      <TodoList />
+      {/* <h2>Fetch Data</h2>
+        <Comments postId="3" /> */}
+      <Parent />
     </>
   );
 }
